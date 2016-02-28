@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CameraModule</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_request_handler">RequestHandler</string>
+    <string name="title_activity_view">ViewActivity</string>
+</resources>
